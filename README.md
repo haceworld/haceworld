@@ -7,7 +7,7 @@
 I'm passionate about learning and sharing knowledge.
 
 - 🔭 I’m currently working on deep learning in biomedical imaging
-- 🌱 I’m currently an assistant professor and module learder
+- 🌱 I’m currently an assistant professor and module leader
 -  I’m looking to collaborate on deep learning based detection models
 - 💬 Ask me about deep learning, computer vision, and computer networking
 -  How to reach me: ugochinneji@gmail.com; grace.nneji@zy.cdut.edu.cn
