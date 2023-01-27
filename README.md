@@ -12,7 +12,7 @@ I'm passionate about learning and sharing knowledge.
 - 💬 Ask me about deep learning, computer vision, and computer networking
 -  How to reach me: ugochinneji@gmail.com; grace.nneji@zy.cdut.edu.cn
 -  2023 Goals: Contributing more to technological advancement
--  📺 Follow my Coding Classes on YouTube:https://www.youtube.com/@exploreinsight25
+-  📺 Follow my Coding Classes on YouTube:<a href="https://www.youtube.com/@exploreinsight25"> Follow my YouTube Channel for all Videos</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haceworld&theme=radical)]
