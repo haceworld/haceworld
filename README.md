@@ -7,7 +7,7 @@
 I'm passionate about learning and sharing knowledge.
 
 - 🔭 I’m currently working on deep learning in biomedical imaging
-- 🌱 I’m currently an Assistant Professor and Module Leader
+- 🌱 I’m currently an Assistant Professor and Module Leader @ OBU-CDUT
 - 📺 I'm a YouTuber and Content Creator
 - 🙎‍♀️ I’m looking to collaborate on deep learning based detection models
 - 💬 Ask me about deep learning, computer vision, and computer networking
