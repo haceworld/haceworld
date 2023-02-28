@@ -15,6 +15,7 @@ I'm passionate about learning and sharing knowledge.
 -  2023 Goals: Contributing more to technological advancement
 - 📺 Follow my video classes on <a href="https://rb.gy/ilyzh4"> Explore Insight</a>
 - 📺 Follow my video classes on <a href="https://rb.gy/bzjmbs"> Digital Electronics</a>
+- 📺 Follow my video classes on <a href="https://rb.gy/rwbwdw"> Information Systems</a>
 - 📺 Follow my video classes on <a href="https://rb.gy/lscd2f">ChatGPT</a>
 - 📺 Follow my video classes on <a href="https://rb.gy/puv2nl">Image Processing</a>
 
