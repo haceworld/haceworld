@@ -10,7 +10,7 @@ I'm passionate about learning and sharing knowledge.
 - 🌱 I’m currently an Assistant Professor and Module Leader @ OBU-CDUT
 - 📺 I'm a YouTuber and Content Creator
 - 🙎‍♀️ I’m looking to collaborate on deep learning based detection models
-- 💬 Ask me about deep learning, computer vision, computer networking, digital electronics, and Information systems
+- 💬 Ask me about machine learning, deep learning, computer vision, computer networking, digital electronics, and Information systems
 - ✍ How to reach me: ugochinneji@gmail.com; grace.nneji@zy.cdut.edu.cn
 -  2023 Goals: Contributing more to technological advancement
 - 📺 Follow my video classes on <a href="https://rb.gy/ilyzh4"> Explore Insight</a>
@@ -18,6 +18,7 @@ I'm passionate about learning and sharing knowledge.
 - 📺 Follow my video classes on <a href="https://rb.gy/rwbwdw"> Information Systems</a>
 - 📺 Follow my video classes on <a href="https://rb.gy/lscd2f">ChatGPT</a>
 - 📺 Follow my video classes on <a href="https://rb.gy/puv2nl">Image Processing</a>
+- 📺 Follow my video classes on <a href="https://rb.gy/cql5c">Computer Networking</a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haceworld&theme=radical)]
